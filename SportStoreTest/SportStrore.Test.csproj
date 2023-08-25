@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <ProjectGroup>
+        <TargetFramework>netcoreapp2.0</TargetFramework>
+        <IsPackable>false</IsPackable>
+    </ProjectGroup>
+
+    <ItemGroup>
+        <ProjectReference Include = "..\SportStore\SportStore.csproj"/>
+    </ItemGroup>
+    <ItemGroup> 
+        <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.3.0-preview-20170628-0"/ >
+        <PackageReference Include="xunit" Version="2.2.0" /> 
+        <PackageReference Include= "xunit.runner.visualstudio" Version=" 2.2.0" />
+        <PackageReference Include="Moq" Version="4.7.99" /> 
+    </ItemGroup> 
+</Projec>

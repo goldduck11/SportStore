@@ -1,0 +1,7 @@
+d:\Prog\SportStore\SportStore\obj\Debug\net5.0\SportStore.GeneratedMSBuildEditorConfig.editorconfig
+d:\Prog\SportStore\SportStore\obj\Debug\net5.0\SportStore.AssemblyInfoInputs.cache
+d:\Prog\SportStore\SportStore\obj\Debug\net5.0\SportStore.AssemblyInfo.cs
+d:\Prog\SportStore\SportStore\obj\Debug\net5.0\SportStore.csproj.CoreCompileInputs.cache
+d:\Prog\SportStore\SportStore\obj\Debug\net5.0\SportStore.MvcApplicationPartsAssemblyInfo.cache
+d:\Prog\SportStore\SportStore\obj\Debug\net5.0\SportStore.RazorAssemblyInfo.cache
+d:\Prog\SportStore\SportStore\obj\Debug\net5.0\SportStore.RazorAssemblyInfo.cs
